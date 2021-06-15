@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initMsgs(){
-        msgs.add(new Msg("hello kugou",Msg.TYPE_receive));
+        msgs.add(new Msg("hello 段其鹏",Msg.TYPE_receive));
         msgs.add(new Msg("hello shshshs",Msg.TYPE_SEND));
         msgs.add(new Msg("what are u doing",Msg.TYPE_receive));
     }
